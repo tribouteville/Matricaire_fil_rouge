@@ -1,0 +1,11 @@
+# Ignorer absolument tout
+*
+
+# Autoriser tous les dossiers (pour pouvoir y descendre)
+!*/
+
+# Autoriser uniquement les fichiers Python
+!*.py
+
+# Autoriser le fichier .gitignore lui-même
+!.gitignore
